@@ -35,7 +35,7 @@ ul#album-fotos li:hover span{
 }
 
  ul#album-fotos li#foto01 {
-     background: url('../imagens/galeria-01.jpg') no-repeat;
+     background: url('imagens/galeria-01.jpg') no-repeat;
      background-position: 50% 50%;
      background-size: 500px 500px;
      background-color: #ffffff;
@@ -45,7 +45,7 @@ ul#album-fotos li:hover span{
      background-size: 250px 250px;
  }
 ul#album-fotos li#foto02 {
-    background: url('../imagens/galeria-02.jpg') no-repeat;
+    background: url('imagens/galeria-02.jpg') no-repeat;
     background-position: 50% 50%;
     background-size: 500px 500px;
     background-color: #ffffff;
@@ -55,7 +55,7 @@ ul#album-fotos li#foto02:hover {
     background-size: 250px 250px;
 }
 ul#album-fotos li#foto03 {
-    background: url('../imagens/galeria-03.jpg') no-repeat;
+    background: url('imagens/galeria-03.jpg') no-repeat;
     background-position: 50% 50%;
     background-size: 500px 500px;
     background-color: #ffffff;
